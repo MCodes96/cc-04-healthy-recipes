@@ -1,2 +1,2 @@
 # cc-04-healthy-recipes
-Codecademy Project #3 - CSS - Healthy Recipes
+Codecademy Project #4 - CSS - Healthy Recipes
